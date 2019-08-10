@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 3efe1d7e8b84a0047ab4e97219e2b1ec
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bevel
+    100002: cabeza_bien
+    100004: Camisa
+    100006: Cejas
+    100008: Gabardina
+    100010: Gafas
+    100012: Mascara_gas
+    100014: Ojos
+    100016: Orejas
+    100018: PeloBase
+    100020: PeloBase_001
+    100022: PeloBase_002
+    100024: PeloBase_003
+    100026: PeloBase_004
+    100028: PeloBase_005
+    100030: PeloBase_006
+    100032: PeloBase_007
+    100034: PeloBase_008
+    100036: PeloBase_009
+    100038: PeloBase_010
+    100040: PeloBase_011
+    100042: PeloBase_012
+    100044: PeloBase_013
+    100046: PeloBase_014
+    100048: PeloBase_015
+    100050: PeloBase_016
+    100052: //RootNode
+    100054: piernas
+    100056: pre_cabeza_torso
+    100058: Taper
+    400000: Bevel
+    400002: cabeza_bien
+    400004: Camisa
+    400006: Cejas
+    400008: Gabardina
+    400010: Gafas
+    400012: Mascara_gas
+    400014: Ojos
+    400016: Orejas
+    400018: PeloBase
+    400020: PeloBase_001
+    400022: PeloBase_002
+    400024: PeloBase_003
+    400026: PeloBase_004
+    400028: PeloBase_005
+    400030: PeloBase_006
+    400032: PeloBase_007
+    400034: PeloBase_008
+    400036: PeloBase_009
+    400038: PeloBase_010
+    400040: PeloBase_011
+    400042: PeloBase_012
+    400044: PeloBase_013
+    400046: PeloBase_014
+    400048: PeloBase_015
+    400050: PeloBase_016
+    400052: //RootNode
+    400054: piernas
+    400056: pre_cabeza_torso
+    400058: Taper
+    2300000: Bevel
+    2300002: cabeza_bien
+    2300004: Camisa
+    2300006: Cejas
+    2300008: Gabardina
+    2300010: Gafas
+    2300012: Mascara_gas
+    2300014: Ojos
+    2300016: Orejas
+    2300018: PeloBase
+    2300020: PeloBase_001
+    2300022: PeloBase_002
+    2300024: PeloBase_003
+    2300026: PeloBase_004
+    2300028: PeloBase_005
+    2300030: PeloBase_006
+    2300032: PeloBase_007
+    2300034: PeloBase_008
+    2300036: PeloBase_009
+    2300038: PeloBase_010
+    2300040: PeloBase_011
+    2300042: PeloBase_012
+    2300044: PeloBase_013
+    2300046: PeloBase_014
+    2300048: PeloBase_015
+    2300050: PeloBase_016
+    2300052: piernas
+    2300054: pre_cabeza_torso
+    2300056: Taper
+    3300000: Bevel
+    3300002: cabeza_bien
+    3300004: Camisa
+    3300006: Cejas
+    3300008: Gabardina
+    3300010: Gafas
+    3300012: Mascara_gas
+    3300014: Ojos
+    3300016: Orejas
+    3300018: PeloBase
+    3300020: PeloBase_001
+    3300022: PeloBase_002
+    3300024: PeloBase_003
+    3300026: PeloBase_004
+    3300028: PeloBase_005
+    3300030: PeloBase_006
+    3300032: PeloBase_007
+    3300034: PeloBase_008
+    3300036: PeloBase_009
+    3300038: PeloBase_010
+    3300040: PeloBase_011
+    3300042: PeloBase_012
+    3300044: PeloBase_013
+    3300046: PeloBase_014
+    3300048: PeloBase_015
+    3300050: PeloBase_016
+    3300052: piernas
+    3300054: pre_cabeza_torso
+    3300056: Taper
+    4300000: Camisa
+    4300002: Bevel
+    4300004: Taper
+    4300006: PeloBase_016
+    4300008: PeloBase_015
+    4300010: PeloBase_014
+    4300012: PeloBase_013
+    4300014: PeloBase_012
+    4300016: PeloBase_011
+    4300018: PeloBase_010
+    4300020: PeloBase_009
+    4300022: PeloBase_008
+    4300024: PeloBase_007
+    4300026: PeloBase_006
+    4300028: PeloBase_005
+    4300030: PeloBase_004
+    4300032: PeloBase_003
+    4300034: PeloBase_002
+    4300036: PeloBase_001
+    4300038: PeloBase
+    4300040: Cejas
+    4300042: Ojos
+    4300044: cabeza_bien
+    4300046: Orejas
+    4300048: Gafas
+    4300050: Mascara_gas
+    4300052: piernas
+    4300054: pre_cabeza_torso
+    4300056: Gabardina
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: ddee724071d41b840a943738e9f5872c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: cdab32ab9dfd0404dae4c49d68d4b5d1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
